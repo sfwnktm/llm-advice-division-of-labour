@@ -1,0 +1,9 @@
+# Python 3.11
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+torch>=2.0
+mfglib==0.3.0     # mean field game library (Guo et al., 2023)
+opt_einsum        # makes MFGLib's einsum about 100 times faster

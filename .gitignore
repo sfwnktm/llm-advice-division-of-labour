@@ -1,0 +1,21 @@
+# Outputs and local data (large, or not for publishing)
+results/
+report/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+.env.*
+
+# Editors and operating system
+.DS_Store
+.vscode/
+.idea/

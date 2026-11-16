@@ -1,0 +1,101 @@
+x,question_type,data_gathering,analysis,m0
+0,exploratory,self-report,statistical analysis,0.010416666666666666
+1,exploratory,self-report,computational analysis,0.010416666666666666
+2,exploratory,self-report,qualitative analysis,0.052083333333333336
+3,exploratory,self-report,"mixed, design and conceptual analysis",0.010416666666666666
+4,exploratory,observation and testing,statistical analysis,0
+5,exploratory,observation and testing,computational analysis,0
+6,exploratory,observation and testing,qualitative analysis,0.041666666666666664
+7,exploratory,observation and testing,"mixed, design and conceptual analysis",0
+8,exploratory,instrument measurement,statistical analysis,0
+9,exploratory,instrument measurement,computational analysis,0
+10,exploratory,instrument measurement,qualitative analysis,0
+11,exploratory,instrument measurement,"mixed, design and conceptual analysis",0
+12,exploratory,secondary data,statistical analysis,0.010416666666666666
+13,exploratory,secondary data,computational analysis,0.010416666666666666
+14,exploratory,secondary data,qualitative analysis,0.010416666666666666
+15,exploratory,secondary data,"mixed, design and conceptual analysis",0.010416666666666666
+16,exploratory,simulated data,statistical analysis,0.020833333333333332
+17,exploratory,simulated data,computational analysis,0.020833333333333332
+18,exploratory,simulated data,qualitative analysis,0.020833333333333332
+19,exploratory,simulated data,"mixed, design and conceptual analysis",0.020833333333333332
+20,base-rate,self-report,statistical analysis,0
+21,base-rate,self-report,computational analysis,0
+22,base-rate,self-report,qualitative analysis,0
+23,base-rate,self-report,"mixed, design and conceptual analysis",0
+24,base-rate,observation and testing,statistical analysis,0
+25,base-rate,observation and testing,computational analysis,0
+26,base-rate,observation and testing,qualitative analysis,0
+27,base-rate,observation and testing,"mixed, design and conceptual analysis",0
+28,base-rate,instrument measurement,statistical analysis,0
+29,base-rate,instrument measurement,computational analysis,0
+30,base-rate,instrument measurement,qualitative analysis,0
+31,base-rate,instrument measurement,"mixed, design and conceptual analysis",0
+32,base-rate,secondary data,statistical analysis,0
+33,base-rate,secondary data,computational analysis,0
+34,base-rate,secondary data,qualitative analysis,0
+35,base-rate,secondary data,"mixed, design and conceptual analysis",0
+36,base-rate,simulated data,statistical analysis,0
+37,base-rate,simulated data,computational analysis,0
+38,base-rate,simulated data,qualitative analysis,0
+39,base-rate,simulated data,"mixed, design and conceptual analysis",0
+40,relationship,self-report,statistical analysis,0
+41,relationship,self-report,computational analysis,0
+42,relationship,self-report,qualitative analysis,0
+43,relationship,self-report,"mixed, design and conceptual analysis",0
+44,relationship,observation and testing,statistical analysis,0
+45,relationship,observation and testing,computational analysis,0
+46,relationship,observation and testing,qualitative analysis,0
+47,relationship,observation and testing,"mixed, design and conceptual analysis",0
+48,relationship,instrument measurement,statistical analysis,0
+49,relationship,instrument measurement,computational analysis,0
+50,relationship,instrument measurement,qualitative analysis,0
+51,relationship,instrument measurement,"mixed, design and conceptual analysis",0
+52,relationship,secondary data,statistical analysis,0
+53,relationship,secondary data,computational analysis,0
+54,relationship,secondary data,qualitative analysis,0
+55,relationship,secondary data,"mixed, design and conceptual analysis",0
+56,relationship,simulated data,statistical analysis,0
+57,relationship,simulated data,computational analysis,0
+58,relationship,simulated data,qualitative analysis,0
+59,relationship,simulated data,"mixed, design and conceptual analysis",0
+60,causality,self-report,statistical analysis,0.041666666666666664
+61,causality,self-report,computational analysis,0
+62,causality,self-report,qualitative analysis,0
+63,causality,self-report,"mixed, design and conceptual analysis",0
+64,causality,observation and testing,statistical analysis,0.052083333333333336
+65,causality,observation and testing,computational analysis,0.010416666666666666
+66,causality,observation and testing,qualitative analysis,0
+67,causality,observation and testing,"mixed, design and conceptual analysis",0
+68,causality,instrument measurement,statistical analysis,0.010416666666666666
+69,causality,instrument measurement,computational analysis,0.052083333333333336
+70,causality,instrument measurement,qualitative analysis,0
+71,causality,instrument measurement,"mixed, design and conceptual analysis",0
+72,causality,secondary data,statistical analysis,0.010416666666666666
+73,causality,secondary data,computational analysis,0.010416666666666666
+74,causality,secondary data,qualitative analysis,0
+75,causality,secondary data,"mixed, design and conceptual analysis",0
+76,causality,simulated data,statistical analysis,0.010416666666666666
+77,causality,simulated data,computational analysis,0.052083333333333336
+78,causality,simulated data,qualitative analysis,0
+79,causality,simulated data,"mixed, design and conceptual analysis",0
+80,design,self-report,statistical analysis,0.041666666666666664
+81,design,self-report,computational analysis,0.0092592592592592587
+82,design,self-report,qualitative analysis,0.10648148148148147
+83,design,self-report,"mixed, design and conceptual analysis",0.037037037037037035
+84,design,observation and testing,statistical analysis,0.020833333333333332
+85,design,observation and testing,computational analysis,0.0092592592592592587
+86,design,observation and testing,qualitative analysis,0.08564814814814814
+87,design,observation and testing,"mixed, design and conceptual analysis",0.037037037037037035
+88,design,instrument measurement,statistical analysis,0
+89,design,instrument measurement,computational analysis,0
+90,design,instrument measurement,qualitative analysis,0
+91,design,instrument measurement,"mixed, design and conceptual analysis",0
+92,design,secondary data,statistical analysis,0.020833333333333332
+93,design,secondary data,computational analysis,0.0092592592592592587
+94,design,secondary data,qualitative analysis,0.08564814814814814
+95,design,secondary data,"mixed, design and conceptual analysis",0.037037037037037035
+96,design,simulated data,statistical analysis,0
+97,design,simulated data,computational analysis,0
+98,design,simulated data,qualitative analysis,0
+99,design,simulated data,"mixed, design and conceptual analysis",0
